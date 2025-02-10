@@ -267,7 +267,7 @@
             //    Console.WriteLine(item);
             //}
 
-            //Console.WriteLine(result?.ProductName ?? "NA"); 
+            //Console.WriteLine(result?.ProductName ?? "NA");
             #endregion
 
             #region 5- Aggregate Operators - Immediate Execution
